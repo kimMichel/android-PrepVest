@@ -50,4 +50,10 @@ dependencies {
     def nav_version = "2.5.3"
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+    // TransformationLayout
+    implementation("com.github.skydoves:transformationlayout:1.1.2")
+
+    // Transition
+    implementation "androidx.transition:transition-ktx:1.4.1"
 }
