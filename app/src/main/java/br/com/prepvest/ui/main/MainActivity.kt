@@ -1,10 +1,11 @@
-package br.com.prepvest
+package br.com.prepvest.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import br.com.prepvest.R
 import br.com.prepvest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

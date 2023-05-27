@@ -1,4 +1,4 @@
-package br.com.prepvest.ui
+package br.com.prepvest.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
