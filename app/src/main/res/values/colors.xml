@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    
+
     <color name="colorPrimary">#12232E</color>
     <color name="colorSecondary">#1A6FAC</color>
     <color name="green">#4CAF50</color>
@@ -10,4 +10,13 @@
     <color name="background">#E0E0E0</color>
     <color name="backgroundDark">#2B292B</color>
     <color name="white_56">#8effffff</color>
+
+    <color name="portugues">#007BFF</color>
+    <color name="matematica">#FFC107</color>
+    <color name="biologia">#4CAF50</color>
+    <color name="fisica">#FF5722</color>
+    <color name="quimica">#9C27B0</color>
+    <color name="historia">#FF3D00</color>
+    <color name="geografia">#4E342E</color>
+    <color name="redacao">#F44336</color>
 </resources>
