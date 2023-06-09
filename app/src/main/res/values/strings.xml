@@ -9,4 +9,9 @@
     <string name="historia">História</string>
     <string name="geografia">Geografia</string>
     <string name="redacao">Redação</string>
+    <!-- Onboard -->
+    <string name="onboard_text">Vestibular à vista? Conquiste o sucesso com nosso app de estudos!</string>
+    <string name="onboard_signup">Registre-se</string>
+    <string name="onboard_have_account">Já possui uma conta?  </string>
+    <string name="onboard_login">Entrar</string>
 </resources>
