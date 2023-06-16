@@ -14,4 +14,9 @@
     <string name="onboard_signup">Registre-se</string>
     <string name="onboard_have_account">Já possui uma conta?  </string>
     <string name="onboard_login">Entrar</string>
+
+    <!-- Login -->
+    <string name="login">Entrar</string>
+    <string name="login_google">Entrar com Google</string>
+    <string name="login_facebook">Entrar com Facebook</string>
 </resources>
